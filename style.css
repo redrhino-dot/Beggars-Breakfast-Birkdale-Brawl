@@ -1,0 +1,39 @@
+* { box-sizing: border-box; font-family: 'Segoe UI', Arial, sans-serif; }
+body { margin: 0; background: #0b3d2e; color: #fdf6e3; }
+header { text-align: center; padding: 20px; background: #072a20; }
+header h1 { margin: 0; font-size: 1.8rem; }
+#lastUpdated { font-size: 0.8rem; color: #b8d8c8; }
+
+#leaderboard { padding: 16px; max-width: 900px; margin: 0 auto; }
+
+.team-card {
+  background: #113d2e;
+  border: 1px solid #2f6b4f;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+.team-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 16px;
+  cursor: pointer;
+  background: #1a4a37;
+}
+.team-header:hover { background: #205a42; }
+.rank { font-weight: bold; width: 30px; }
+.team-name { flex: 1; margin-left: 10px; }
+.team-total { font-weight: bold; }
+.team-total.under { color: #ff6b6b; }
+.team-total.over { color: #6bff9e; }
+
+.players { display: none; padding: 8px 16px 16px; }
+.players.open { display: block; }
+.player-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 0;
+  border-bottom: 1px solid #205a42;
+  font-size: 0.9rem;
+}
+.player-row:last-child { border-bottom: none; }
