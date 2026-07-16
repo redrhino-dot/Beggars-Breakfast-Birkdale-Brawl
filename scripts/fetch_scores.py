@@ -31,7 +31,7 @@ def build():
         status_desc = c.get('status', {}).get('type', {}).get('description', '') or ''
         pos_display = c.get('status', {}).get('position', {}).get('displayName', '-')
         score_val = c.get('score', {}).get('displayValue', 'E')
-        is_cut = 'cut' in status_desc.lower() or 'wd' in status_desc.lower()
+        is_cut = 'cut' in status_desc.lower() or 'wd' in status_desc.lower() or 'dq' in status_desc.lower()
 
         pos_num = parse_position(pos_display)
         players[name] = {
