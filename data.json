@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-18T07:20:47.111963Z",
+  "lastUpdated": "2026-07-18T09:07:57.276732Z",
   "tournament": "The Open",
-  "cutLine": 67,
+  "cutLine": 78,
   "teams": [
     {
       "team": "Bowles",
@@ -40,7 +40,7 @@
     },
     {
       "team": "Dean",
-      "total": 98,
+      "total": 109,
       "players": [
         {
           "name": "Tommy Fleetwood",
@@ -52,9 +52,9 @@
         {
           "name": "Viktor Hovland",
           "score": "+4",
-          "position": "CUT (68)",
+          "position": "CUT (79)",
           "status": "Missed Cut",
-          "scoringPosition": 68
+          "scoringPosition": 79
         },
         {
           "name": "Ludvig \u00c5berg",
@@ -75,14 +75,14 @@
     },
     {
       "team": "Lloyd",
-      "total": 128,
+      "total": 139,
       "players": [
         {
           "name": "Wyndham Clark",
           "score": "+3",
-          "position": "CUT (68)",
+          "position": "CUT (79)",
           "status": "Missed Cut",
-          "scoringPosition": 68
+          "scoringPosition": 79
         },
         {
           "name": "Tyrrell Hatton",
@@ -110,7 +110,7 @@
     },
     {
       "team": "Reido",
-      "total": 138,
+      "total": 140,
       "players": [
         {
           "name": "Rory McIlroy",
@@ -122,9 +122,9 @@
         {
           "name": "Min Woo Lee",
           "score": "+1",
-          "position": "T67",
-          "status": "Scheduled",
-          "scoringPosition": 67
+          "position": "T69",
+          "status": "In Progress",
+          "scoringPosition": 69
         },
         {
           "name": "Collin Morikawa",
@@ -145,7 +145,7 @@
     },
     {
       "team": "X",
-      "total": 153,
+      "total": 164,
       "players": [
         {
           "name": "Scottie Scheffler",
@@ -157,9 +157,9 @@
         {
           "name": "Aaron Rai",
           "score": "+2",
-          "position": "CUT (68)",
+          "position": "CUT (79)",
           "status": "Missed Cut",
-          "scoringPosition": 68
+          "scoringPosition": 79
         },
         {
           "name": "Patrick Reed",
@@ -180,7 +180,7 @@
     },
     {
       "team": "Romano",
-      "total": 175,
+      "total": 186,
       "players": [
         {
           "name": "Xander Schauffele",
@@ -192,9 +192,9 @@
         {
           "name": "Tom Kim",
           "score": "+3",
-          "position": "CUT (68)",
+          "position": "CUT (79)",
           "status": "Missed Cut",
-          "scoringPosition": 68
+          "scoringPosition": 79
         },
         {
           "name": "Hideki Matsuyama",
@@ -214,50 +214,15 @@
       "rank": 6
     },
     {
-      "team": "G",
-      "total": 209,
-      "players": [
-        {
-          "name": "Matt Fitzpatrick",
-          "score": "+4",
-          "position": "CUT (68)",
-          "status": "Missed Cut",
-          "scoringPosition": 68
-        },
-        {
-          "name": "Justin Rose",
-          "score": "+3",
-          "position": "CUT (68)",
-          "status": "Missed Cut",
-          "scoringPosition": 68
-        },
-        {
-          "name": "Sam Burns",
-          "score": "-5",
-          "position": "T5",
-          "status": "Scheduled",
-          "scoringPosition": 5
-        },
-        {
-          "name": "Brian Harman",
-          "score": "+9",
-          "position": "CUT (68)",
-          "status": "Missed Cut",
-          "scoringPosition": 68
-        }
-      ],
-      "rank": 7
-    },
-    {
       "team": "Craig",
-      "total": 210,
+      "total": 225,
       "players": [
         {
           "name": "Brooks Koepka",
           "score": "+1",
-          "position": "T67",
-          "status": "Scheduled",
-          "scoringPosition": 67
+          "position": "T69",
+          "status": "In Progress",
+          "scoringPosition": 69
         },
         {
           "name": "Robert MacIntyre",
@@ -269,16 +234,51 @@
         {
           "name": "Jordan Spieth",
           "score": "+10",
-          "position": "CUT (68)",
+          "position": "CUT (79)",
           "status": "Missed Cut",
-          "scoringPosition": 68
+          "scoringPosition": 79
         },
         {
           "name": "Russell Henley",
           "score": "+1",
-          "position": "T67",
+          "position": "T69",
+          "status": "In Progress",
+          "scoringPosition": 69
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "team": "G",
+      "total": 242,
+      "players": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": "+4",
+          "position": "CUT (79)",
+          "status": "Missed Cut",
+          "scoringPosition": 79
+        },
+        {
+          "name": "Justin Rose",
+          "score": "+3",
+          "position": "CUT (79)",
+          "status": "Missed Cut",
+          "scoringPosition": 79
+        },
+        {
+          "name": "Sam Burns",
+          "score": "-5",
+          "position": "T5",
           "status": "Scheduled",
-          "scoringPosition": 67
+          "scoringPosition": 5
+        },
+        {
+          "name": "Brian Harman",
+          "score": "+9",
+          "position": "CUT (79)",
+          "status": "Missed Cut",
+          "scoringPosition": 79
         }
       ],
       "rank": 8
