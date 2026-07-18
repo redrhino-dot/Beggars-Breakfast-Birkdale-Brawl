@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T20:11:28.813371Z",
+  "lastUpdated": "2026-07-18T21:07:29.494804Z",
   "tournament": "The Open",
   "cutLine": 78,
   "teams": [
@@ -11,28 +11,28 @@
           "name": "Jon Rahm",
           "score": "-4",
           "position": "T11",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 11
         },
         {
           "name": "Chris Gotterup",
           "score": "E",
           "position": "T50",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 50
         },
         {
           "name": "Cameron Young",
           "score": "-3",
           "position": "T20",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 20
         },
         {
           "name": "Shane Lowry",
           "score": "-4",
           "position": "T11",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 11
         }
       ],
@@ -46,7 +46,7 @@
           "name": "Tommy Fleetwood",
           "score": "-5",
           "position": "T9",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 9
         },
         {
@@ -60,14 +60,14 @@
           "name": "Ludvig \u00c5berg",
           "score": "-6",
           "position": "T6",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 6
         },
         {
           "name": "Bryson DeChambeau",
           "score": "-6",
           "position": "T6",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 6
         }
       ],
@@ -81,7 +81,7 @@
           "name": "Xander Schauffele",
           "score": "-4",
           "position": "T11",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 11
         },
         {
@@ -95,14 +95,14 @@
           "name": "Hideki Matsuyama",
           "score": "-4",
           "position": "T11",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 11
         },
         {
           "name": "J.J. Spaun",
           "score": "E",
           "position": "T50",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 50
         }
       ],
@@ -116,7 +116,7 @@
           "name": "Scottie Scheffler",
           "score": "-4",
           "position": "T11",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 11
         },
         {
@@ -130,14 +130,14 @@
           "name": "Patrick Reed",
           "score": "-1",
           "position": "T38",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 38
         },
         {
           "name": "Casey Jarvis",
           "score": "-2",
           "position": "T29",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 29
         }
       ],
@@ -158,21 +158,21 @@
           "name": "Tyrrell Hatton",
           "score": "+1",
           "position": "T58",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 58
         },
         {
           "name": "Si Woo Kim",
           "score": "-8",
           "position": "T2",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 2
         },
         {
           "name": "Justin Thomas",
           "score": "-3",
           "position": "T20",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 20
         }
       ],
@@ -186,28 +186,28 @@
           "name": "Rory McIlroy",
           "score": "-2",
           "position": "T29",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 29
         },
         {
           "name": "Min Woo Lee",
           "score": "+2",
           "position": "T64",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 64
         },
         {
           "name": "Collin Morikawa",
           "score": "-2",
           "position": "T29",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 29
         },
         {
           "name": "Alex Fitzpatrick",
           "score": "-1",
           "position": "T38",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 38
         }
       ],
@@ -221,14 +221,14 @@
           "name": "Brooks Koepka",
           "score": "E",
           "position": "T50",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 50
         },
         {
           "name": "Robert MacIntyre",
           "score": "-3",
           "position": "T20",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 20
         },
         {
@@ -242,7 +242,7 @@
           "name": "Russell Henley",
           "score": "-1",
           "position": "T38",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 38
         }
       ],
@@ -270,7 +270,7 @@
           "name": "Sam Burns",
           "score": "-10",
           "position": "1",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 1
         },
         {
