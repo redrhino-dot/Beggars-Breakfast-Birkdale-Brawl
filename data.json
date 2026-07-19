@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-07-19T10:11:14.812408Z",
+  "lastUpdated": "2026-07-19T11:32:03.987750Z",
   "tournament": "The Open",
   "cutLine": 78,
   "teams": [
     {
       "team": "Bowles",
-      "total": 83,
+      "total": 72,
       "players": [
         {
           "name": "Jon Rahm",
           "score": "-4",
-          "position": "T11",
+          "position": "T12",
           "status": "Scheduled",
-          "scoringPosition": 11
+          "scoringPosition": 12
         },
         {
           "name": "Chris Gotterup",
           "score": "E",
-          "position": "T41",
+          "position": "T39",
           "status": "In Progress",
-          "scoringPosition": 41
+          "scoringPosition": 39
         },
         {
           "name": "Cameron Young",
           "score": "-3",
-          "position": "T20",
-          "status": "Scheduled",
-          "scoringPosition": 20
+          "position": "T9",
+          "status": "In Progress",
+          "scoringPosition": 9
         },
         {
           "name": "Shane Lowry",
           "score": "-4",
-          "position": "T11",
+          "position": "T12",
           "status": "Scheduled",
-          "scoringPosition": 11
+          "scoringPosition": 12
         }
       ],
       "rank": 1
@@ -74,162 +74,22 @@
       "rank": 2
     },
     {
-      "team": "Romano",
-      "total": 142,
-      "players": [
-        {
-          "name": "Xander Schauffele",
-          "score": "-4",
-          "position": "T11",
-          "status": "Scheduled",
-          "scoringPosition": 11
-        },
-        {
-          "name": "Tom Kim",
-          "score": "+3",
-          "position": "CUT (79)",
-          "status": "Missed Cut",
-          "scoringPosition": 79
-        },
-        {
-          "name": "Hideki Matsuyama",
-          "score": "-4",
-          "position": "T11",
-          "status": "Scheduled",
-          "scoringPosition": 11
-        },
-        {
-          "name": "J.J. Spaun",
-          "score": "E",
-          "position": "T41",
-          "status": "In Progress",
-          "scoringPosition": 41
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "team": "X",
-      "total": 148,
-      "players": [
-        {
-          "name": "Scottie Scheffler",
-          "score": "-4",
-          "position": "T11",
-          "status": "Scheduled",
-          "scoringPosition": 11
-        },
-        {
-          "name": "Aaron Rai",
-          "score": "+2",
-          "position": "CUT (79)",
-          "status": "Missed Cut",
-          "scoringPosition": 79
-        },
-        {
-          "name": "Patrick Reed",
-          "score": "-1",
-          "position": "T29",
-          "status": "In Progress",
-          "scoringPosition": 29
-        },
-        {
-          "name": "Casey Jarvis",
-          "score": "-2",
-          "position": "T29",
-          "status": "Scheduled",
-          "scoringPosition": 29
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "team": "Lloyd",
-      "total": 161,
-      "players": [
-        {
-          "name": "Wyndham Clark",
-          "score": "+3",
-          "position": "CUT (79)",
-          "status": "Missed Cut",
-          "scoringPosition": 79
-        },
-        {
-          "name": "Tyrrell Hatton",
-          "score": "+1",
-          "position": "T60",
-          "status": "In Progress",
-          "scoringPosition": 60
-        },
-        {
-          "name": "Si Woo Kim",
-          "score": "-8",
-          "position": "T2",
-          "status": "Scheduled",
-          "scoringPosition": 2
-        },
-        {
-          "name": "Justin Thomas",
-          "score": "-3",
-          "position": "T20",
-          "status": "Scheduled",
-          "scoringPosition": 20
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "team": "Reido",
-      "total": 178,
-      "players": [
-        {
-          "name": "Rory McIlroy",
-          "score": "-2",
-          "position": "T29",
-          "status": "Scheduled",
-          "scoringPosition": 29
-        },
-        {
-          "name": "Min Woo Lee",
-          "score": "+2",
-          "position": "T60",
-          "status": "In Progress",
-          "scoringPosition": 60
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": "-2",
-          "position": "T29",
-          "status": "Scheduled",
-          "scoringPosition": 29
-        },
-        {
-          "name": "Alex Fitzpatrick",
-          "score": "-1",
-          "position": "T60",
-          "status": "In Progress",
-          "scoringPosition": 60
-        }
-      ],
-      "rank": 6
-    },
-    {
       "team": "Craig",
-      "total": 195,
+      "total": 145,
       "players": [
         {
           "name": "Brooks Koepka",
           "score": "E",
-          "position": "T55",
+          "position": "T22",
           "status": "In Progress",
-          "scoringPosition": 55
+          "scoringPosition": 22
         },
         {
           "name": "Robert MacIntyre",
           "score": "-3",
-          "position": "T20",
-          "status": "Scheduled",
-          "scoringPosition": 20
+          "position": "T22",
+          "status": "In Progress",
+          "scoringPosition": 22
         },
         {
           "name": "Jordan Spieth",
@@ -241,9 +101,149 @@
         {
           "name": "Russell Henley",
           "score": "-1",
-          "position": "T41",
+          "position": "T22",
+          "status": "In Progress",
+          "scoringPosition": 22
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "team": "Romano",
+      "total": 151,
+      "players": [
+        {
+          "name": "Xander Schauffele",
+          "score": "-4",
+          "position": "T12",
           "status": "Scheduled",
-          "scoringPosition": 41
+          "scoringPosition": 12
+        },
+        {
+          "name": "Tom Kim",
+          "score": "+3",
+          "position": "CUT (79)",
+          "status": "Missed Cut",
+          "scoringPosition": 79
+        },
+        {
+          "name": "Hideki Matsuyama",
+          "score": "-4",
+          "position": "T12",
+          "status": "Scheduled",
+          "scoringPosition": 12
+        },
+        {
+          "name": "J.J. Spaun",
+          "score": "E",
+          "position": "T48",
+          "status": "In Progress",
+          "scoringPosition": 48
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "team": "X",
+      "total": 169,
+      "players": [
+        {
+          "name": "Scottie Scheffler",
+          "score": "-4",
+          "position": "T12",
+          "status": "Scheduled",
+          "scoringPosition": 12
+        },
+        {
+          "name": "Aaron Rai",
+          "score": "+2",
+          "position": "CUT (79)",
+          "status": "Missed Cut",
+          "scoringPosition": 79
+        },
+        {
+          "name": "Patrick Reed",
+          "score": "-1",
+          "position": "T39",
+          "status": "In Progress",
+          "scoringPosition": 39
+        },
+        {
+          "name": "Casey Jarvis",
+          "score": "-2",
+          "position": "T39",
+          "status": "In Progress",
+          "scoringPosition": 39
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "team": "Lloyd",
+      "total": 169,
+      "players": [
+        {
+          "name": "Wyndham Clark",
+          "score": "+3",
+          "position": "CUT (79)",
+          "status": "Missed Cut",
+          "scoringPosition": 79
+        },
+        {
+          "name": "Tyrrell Hatton",
+          "score": "+1",
+          "position": "T66",
+          "status": "In Progress",
+          "scoringPosition": 66
+        },
+        {
+          "name": "Si Woo Kim",
+          "score": "-8",
+          "position": "T2",
+          "status": "Scheduled",
+          "scoringPosition": 2
+        },
+        {
+          "name": "Justin Thomas",
+          "score": "-3",
+          "position": "T22",
+          "status": "Scheduled",
+          "scoringPosition": 22
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "team": "Reido",
+      "total": 171,
+      "players": [
+        {
+          "name": "Rory McIlroy",
+          "score": "-2",
+          "position": "T22",
+          "status": "In Progress",
+          "scoringPosition": 22
+        },
+        {
+          "name": "Min Woo Lee",
+          "score": "+2",
+          "position": "T61",
+          "status": "In Progress",
+          "scoringPosition": 61
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": "-2",
+          "position": "T22",
+          "status": "In Progress",
+          "scoringPosition": 22
+        },
+        {
+          "name": "Alex Fitzpatrick",
+          "score": "-1",
+          "position": "T66",
+          "status": "In Progress",
+          "scoringPosition": 66
         }
       ],
       "rank": 7
