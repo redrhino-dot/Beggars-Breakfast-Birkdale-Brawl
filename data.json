@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-19T17:18:08.754525Z",
+  "lastUpdated": "2026-07-19T18:11:52.676089Z",
   "tournament": "The Open",
   "cutLine": 78,
   "teams": [
     {
       "team": "Bowles",
-      "total": 93,
+      "total": 94,
       "players": [
         {
           "name": "Jon Rahm",
@@ -24,9 +24,9 @@
         {
           "name": "Cameron Young",
           "score": "-9",
-          "position": "T1",
+          "position": "2",
           "status": "Finish",
-          "scoringPosition": 1
+          "scoringPosition": 2
         },
         {
           "name": "Shane Lowry",
@@ -40,7 +40,7 @@
     },
     {
       "team": "Dean",
-      "total": 104,
+      "total": 106,
       "players": [
         {
           "name": "Tommy Fleetwood",
@@ -58,10 +58,10 @@
         },
         {
           "name": "Ludvig \u00c5berg",
-          "score": "-6",
-          "position": "T7",
-          "status": "In Progress",
-          "scoringPosition": 7
+          "score": "-5",
+          "position": "T9",
+          "status": "Finish",
+          "scoringPosition": 9
         },
         {
           "name": "Bryson DeChambeau",
@@ -75,7 +75,7 @@
     },
     {
       "team": "X",
-      "total": 136,
+      "total": 135,
       "players": [
         {
           "name": "Scottie Scheffler",
@@ -101,16 +101,16 @@
         {
           "name": "Casey Jarvis",
           "score": "-6",
-          "position": "T7",
+          "position": "T6",
           "status": "Finish",
-          "scoringPosition": 7
+          "scoringPosition": 6
         }
       ],
       "rank": 3
     },
     {
       "team": "Craig",
-      "total": 146,
+      "total": 144,
       "players": [
         {
           "name": "Brooks Koepka",
@@ -136,9 +136,9 @@
         {
           "name": "Russell Henley",
           "score": "-5",
-          "position": "T11",
+          "position": "T9",
           "status": "Finish",
-          "scoringPosition": 11
+          "scoringPosition": 9
         }
       ],
       "rank": 4
@@ -215,7 +215,7 @@
     },
     {
       "team": "Lloyd",
-      "total": 217,
+      "total": 219,
       "players": [
         {
           "name": "Wyndham Clark",
@@ -233,10 +233,10 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": "-8",
-          "position": "T4",
-          "status": "In Progress",
-          "scoringPosition": 4
+          "score": "-6",
+          "position": "T6",
+          "status": "Finish",
+          "scoringPosition": 6
         },
         {
           "name": "Justin Thomas",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Sam Burns",
-          "score": "-10",
+          "score": "-8",
           "position": "3",
-          "status": "In Progress",
+          "status": "Finish",
           "scoringPosition": 3
         },
         {
