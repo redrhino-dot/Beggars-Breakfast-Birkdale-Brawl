@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-24T20:14:16.346377Z",
+  "lastUpdated": "2026-07-24T21:30:05.212740Z",
   "tournament": "3M Open",
   "cutLine": 143,
   "teams": [
     {
       "team": "X",
-      "total": 320,
+      "total": 319,
       "players": [
         {
           "name": "Scottie Scheffler",
@@ -31,16 +31,16 @@
         {
           "name": "Casey Jarvis",
           "score": "-5",
-          "position": "T27",
+          "position": "T26",
           "status": "Finish",
-          "scoringPosition": 27
+          "scoringPosition": 26
         }
       ],
       "rank": 1
     },
     {
       "team": "Romano",
-      "total": 381,
+      "total": 340,
       "players": [
         {
           "name": "Xander Schauffele",
@@ -52,16 +52,16 @@
         {
           "name": "Tom Kim",
           "score": "-5",
-          "position": "T27",
+          "position": "T26",
           "status": "Finish",
-          "scoringPosition": 27
+          "scoringPosition": 26
         },
         {
           "name": "Hideki Matsuyama",
           "score": "-1",
-          "position": "T66",
+          "position": "T26",
           "status": "In Progress",
-          "scoringPosition": 66
+          "scoringPosition": 26
         },
         {
           "name": "J.J. Spaun",
@@ -75,7 +75,7 @@
     },
     {
       "team": "G",
-      "total": 468,
+      "total": 449,
       "players": [
         {
           "name": "Matt Fitzpatrick",
@@ -101,9 +101,9 @@
         {
           "name": "Brian Harman",
           "score": "-2",
-          "position": "T36",
+          "position": "T17",
           "status": "In Progress",
-          "scoringPosition": 36
+          "scoringPosition": 17
         }
       ],
       "rank": 3
