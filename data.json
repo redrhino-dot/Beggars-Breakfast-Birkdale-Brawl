@@ -1,18 +1,53 @@
 {
-  "lastUpdated": "2026-07-24T21:30:05.212740Z",
+  "lastUpdated": "2026-07-24T22:36:38.450855Z",
   "tournament": "3M Open",
   "cutLine": 143,
   "teams": [
     {
+      "team": "Romano",
+      "total": 330,
+      "players": [
+        {
+          "name": "Xander Schauffele",
+          "score": "-",
+          "position": "Not Started",
+          "status": "Not Started",
+          "scoringPosition": 144
+        },
+        {
+          "name": "Tom Kim",
+          "score": "-5",
+          "position": "T30",
+          "status": "Finish",
+          "scoringPosition": 30
+        },
+        {
+          "name": "Hideki Matsuyama",
+          "score": "-7",
+          "position": "T12",
+          "status": "Finish",
+          "scoringPosition": 12
+        },
+        {
+          "name": "J.J. Spaun",
+          "score": "-",
+          "position": "Not Started",
+          "status": "Not Started",
+          "scoringPosition": 144
+        }
+      ],
+      "rank": 1
+    },
+    {
       "team": "X",
-      "total": 319,
+      "total": 338,
       "players": [
         {
           "name": "Scottie Scheffler",
           "score": "-6",
-          "position": "T5",
+          "position": "T20",
           "status": "In Progress",
-          "scoringPosition": 5
+          "scoringPosition": 20
         },
         {
           "name": "Aaron Rai",
@@ -31,51 +66,16 @@
         {
           "name": "Casey Jarvis",
           "score": "-5",
-          "position": "T26",
+          "position": "T30",
           "status": "Finish",
-          "scoringPosition": 26
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "team": "Romano",
-      "total": 340,
-      "players": [
-        {
-          "name": "Xander Schauffele",
-          "score": "-",
-          "position": "Not Started",
-          "status": "Not Started",
-          "scoringPosition": 144
-        },
-        {
-          "name": "Tom Kim",
-          "score": "-5",
-          "position": "T26",
-          "status": "Finish",
-          "scoringPosition": 26
-        },
-        {
-          "name": "Hideki Matsuyama",
-          "score": "-1",
-          "position": "T26",
-          "status": "In Progress",
-          "scoringPosition": 26
-        },
-        {
-          "name": "J.J. Spaun",
-          "score": "-",
-          "position": "Not Started",
-          "status": "Not Started",
-          "scoringPosition": 144
+          "scoringPosition": 30
         }
       ],
       "rank": 2
     },
     {
       "team": "G",
-      "total": 449,
+      "total": 441,
       "players": [
         {
           "name": "Matt Fitzpatrick",
@@ -101,9 +101,9 @@
         {
           "name": "Brian Harman",
           "score": "-2",
-          "position": "T17",
+          "position": "T9",
           "status": "In Progress",
-          "scoringPosition": 17
+          "scoringPosition": 9
         }
       ],
       "rank": 3
