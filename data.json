@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-25T17:31:42.278991Z",
+  "lastUpdated": "2026-07-25T18:32:38.272111Z",
   "tournament": "3M Open",
   "cutLine": 66,
   "teams": [
     {
       "team": "Romano",
-      "total": 161,
+      "total": 159,
       "players": [
         {
           "name": "Xander Schauffele",
@@ -17,16 +17,16 @@
         {
           "name": "Tom Kim",
           "score": "-5",
-          "position": "T25",
+          "position": "T22",
           "status": "In Progress",
-          "scoringPosition": 25
+          "scoringPosition": 22
         },
         {
           "name": "Hideki Matsuyama",
           "score": "-7",
-          "position": "T2",
+          "position": "T3",
           "status": "In Progress",
-          "scoringPosition": 2
+          "scoringPosition": 3
         },
         {
           "name": "J.J. Spaun",
@@ -40,14 +40,14 @@
     },
     {
       "team": "X",
-      "total": 168,
+      "total": 172,
       "players": [
         {
           "name": "Scottie Scheffler",
           "score": "-7",
-          "position": "T25",
+          "position": "T22",
           "status": "In Progress",
-          "scoringPosition": 25
+          "scoringPosition": 22
         },
         {
           "name": "Aaron Rai",
@@ -66,16 +66,16 @@
         {
           "name": "Casey Jarvis",
           "score": "-5",
-          "position": "T9",
+          "position": "T16",
           "status": "In Progress",
-          "scoringPosition": 9
+          "scoringPosition": 16
         }
       ],
       "rank": 2
     },
     {
       "team": "G",
-      "total": 210,
+      "total": 208,
       "players": [
         {
           "name": "Matt Fitzpatrick",
@@ -101,9 +101,9 @@
         {
           "name": "Brian Harman",
           "score": "-9",
-          "position": "T9",
+          "position": "T7",
           "status": "In Progress",
-          "scoringPosition": 9
+          "scoringPosition": 7
         }
       ],
       "rank": 3
