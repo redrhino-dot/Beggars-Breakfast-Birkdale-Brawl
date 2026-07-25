@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T21:38:17.402031Z",
+  "lastUpdated": "2026-07-25T22:33:37.517027Z",
   "tournament": "3M Open",
   "cutLine": 63,
   "teams": [
@@ -11,7 +11,7 @@
           "name": "Scottie Scheffler",
           "score": "-14",
           "position": "T9",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 9
         },
         {
@@ -32,7 +32,7 @@
           "name": "Casey Jarvis",
           "score": "-10",
           "position": "T21",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 21
         }
       ],
@@ -53,14 +53,14 @@
           "name": "Tom Kim",
           "score": "-9",
           "position": "T28",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 28
         },
         {
           "name": "Hideki Matsuyama",
           "score": "-13",
           "position": "T13",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 13
         },
         {
@@ -102,7 +102,7 @@
           "name": "Brian Harman",
           "score": "-14",
           "position": "T9",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 9
         }
       ],
