@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-26T18:15:05.152413Z",
+  "lastUpdated": "2026-07-26T19:36:42.052505Z",
   "tournament": "3M Open",
   "cutLine": 66,
   "teams": [
     {
       "team": "Romano",
-      "total": 169,
+      "total": 159,
       "players": [
         {
           "name": "Xander Schauffele",
@@ -16,17 +16,17 @@
         },
         {
           "name": "Tom Kim",
-          "score": "-9",
-          "position": "T27",
-          "status": "In Progress",
-          "scoringPosition": 27
+          "score": "-14",
+          "position": "T16",
+          "status": "Finish",
+          "scoringPosition": 16
         },
         {
           "name": "Hideki Matsuyama",
           "score": "-13",
-          "position": "T8",
+          "position": "T9",
           "status": "In Progress",
-          "scoringPosition": 8
+          "scoringPosition": 9
         },
         {
           "name": "J.J. Spaun",
@@ -40,14 +40,14 @@
     },
     {
       "team": "X",
-      "total": 193,
+      "total": 187,
       "players": [
         {
           "name": "Scottie Scheffler",
           "score": "-14",
-          "position": "T4",
+          "position": "2",
           "status": "In Progress",
-          "scoringPosition": 4
+          "scoringPosition": 2
         },
         {
           "name": "Aaron Rai",
@@ -66,16 +66,16 @@
         {
           "name": "Casey Jarvis",
           "score": "-10",
-          "position": "55",
+          "position": "T51",
           "status": "In Progress",
-          "scoringPosition": 55
+          "scoringPosition": 51
         }
       ],
       "rank": 2
     },
     {
       "team": "G",
-      "total": 203,
+      "total": 204,
       "players": [
         {
           "name": "Matt Fitzpatrick",
@@ -101,9 +101,9 @@
         {
           "name": "Brian Harman",
           "score": "-14",
-          "position": "T2",
+          "position": "3",
           "status": "In Progress",
-          "scoringPosition": 2
+          "scoringPosition": 3
         }
       ],
       "rank": 3
