@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-26T16:13:26.963334Z",
+  "lastUpdated": "2026-07-26T17:17:48.131925Z",
   "tournament": "3M Open",
   "cutLine": 66,
   "teams": [
     {
       "team": "Romano",
-      "total": 178,
+      "total": 181,
       "players": [
         {
           "name": "Xander Schauffele",
@@ -17,16 +17,16 @@
         {
           "name": "Tom Kim",
           "score": "-9",
-          "position": "T31",
+          "position": "T30",
           "status": "In Progress",
-          "scoringPosition": 31
+          "scoringPosition": 30
         },
         {
           "name": "Hideki Matsuyama",
           "score": "-13",
-          "position": "T13",
-          "status": "Scheduled",
-          "scoringPosition": 13
+          "position": "T17",
+          "status": "In Progress",
+          "scoringPosition": 17
         },
         {
           "name": "J.J. Spaun",
@@ -40,14 +40,14 @@
     },
     {
       "team": "X",
-      "total": 184,
+      "total": 192,
       "players": [
         {
           "name": "Scottie Scheffler",
           "score": "-14",
-          "position": "T9",
-          "status": "Scheduled",
-          "scoringPosition": 9
+          "position": "T6",
+          "status": "In Progress",
+          "scoringPosition": 6
         },
         {
           "name": "Aaron Rai",
@@ -66,16 +66,16 @@
         {
           "name": "Casey Jarvis",
           "score": "-10",
-          "position": "T41",
+          "position": "T52",
           "status": "In Progress",
-          "scoringPosition": 41
+          "scoringPosition": 52
         }
       ],
       "rank": 2
     },
     {
       "team": "G",
-      "total": 210,
+      "total": 207,
       "players": [
         {
           "name": "Matt Fitzpatrick",
@@ -101,9 +101,9 @@
         {
           "name": "Brian Harman",
           "score": "-14",
-          "position": "T9",
-          "status": "Scheduled",
-          "scoringPosition": 9
+          "position": "T6",
+          "status": "In Progress",
+          "scoringPosition": 6
         }
       ],
       "rank": 3
