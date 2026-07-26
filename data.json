@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-26T19:36:42.052505Z",
+  "lastUpdated": "2026-07-26T20:33:30.784151Z",
   "tournament": "3M Open",
   "cutLine": 66,
   "teams": [
     {
       "team": "Romano",
-      "total": 159,
+      "total": 157,
       "players": [
         {
           "name": "Xander Schauffele",
@@ -17,16 +17,16 @@
         {
           "name": "Tom Kim",
           "score": "-14",
-          "position": "T16",
+          "position": "T19",
           "status": "Finish",
-          "scoringPosition": 16
+          "scoringPosition": 19
         },
         {
           "name": "Hideki Matsuyama",
           "score": "-13",
-          "position": "T9",
+          "position": "T4",
           "status": "In Progress",
-          "scoringPosition": 9
+          "scoringPosition": 4
         },
         {
           "name": "J.J. Spaun",
@@ -65,9 +65,9 @@
         },
         {
           "name": "Casey Jarvis",
-          "score": "-10",
+          "score": "-8",
           "position": "T51",
-          "status": "In Progress",
+          "status": "Finish",
           "scoringPosition": 51
         }
       ],
