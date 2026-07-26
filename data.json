@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T20:33:30.784151Z",
+  "lastUpdated": "2026-07-26T21:32:05.927685Z",
   "tournament": "3M Open",
   "cutLine": 66,
   "teams": [
@@ -17,16 +17,16 @@
         {
           "name": "Tom Kim",
           "score": "-14",
-          "position": "T19",
+          "position": "T20",
           "status": "Finish",
-          "scoringPosition": 19
+          "scoringPosition": 20
         },
         {
           "name": "Hideki Matsuyama",
-          "score": "-13",
-          "position": "T4",
-          "status": "In Progress",
-          "scoringPosition": 4
+          "score": "-20",
+          "position": "T3",
+          "status": "Finish",
+          "scoringPosition": 3
         },
         {
           "name": "J.J. Spaun",
@@ -44,9 +44,9 @@
       "players": [
         {
           "name": "Scottie Scheffler",
-          "score": "-14",
+          "score": "-22",
           "position": "2",
-          "status": "In Progress",
+          "status": "Finish",
           "scoringPosition": 2
         },
         {
@@ -100,9 +100,9 @@
         },
         {
           "name": "Brian Harman",
-          "score": "-14",
-          "position": "3",
-          "status": "In Progress",
+          "score": "-20",
+          "position": "T3",
+          "status": "Finish",
           "scoringPosition": 3
         }
       ],
