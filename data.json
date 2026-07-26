@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T13:59:35.501998Z",
+  "lastUpdated": "2026-07-26T15:10:08.045121Z",
   "tournament": "3M Open",
   "cutLine": 65,
   "teams": [
@@ -40,7 +40,7 @@
     },
     {
       "team": "Romano",
-      "total": 173,
+      "total": 174,
       "players": [
         {
           "name": "Xander Schauffele",
@@ -52,9 +52,9 @@
         {
           "name": "Tom Kim",
           "score": "-9",
-          "position": "T28",
-          "status": "Scheduled",
-          "scoringPosition": 28
+          "position": "T29",
+          "status": "In Progress",
+          "scoringPosition": 29
         },
         {
           "name": "Hideki Matsuyama",
