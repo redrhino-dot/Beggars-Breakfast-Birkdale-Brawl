@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-30T19:55:14.314655Z",
+  "lastUpdated": "2026-07-30T21:00:26.871529Z",
   "tournament": "Rocket Classic",
   "cutLine": 147,
   "teams": [
     {
       "team": "Romano",
-      "total": 234,
+      "total": 202,
       "players": [
         {
           "name": "Xander Schauffele",
           "score": "-4",
-          "position": "T11",
+          "position": "T13",
           "status": "Finish",
-          "scoringPosition": 11
+          "scoringPosition": 13
         },
         {
           "name": "Tom Kim",
@@ -24,58 +24,23 @@
         {
           "name": "Hideki Matsuyama",
           "score": "E",
-          "position": "T56",
+          "position": "T28",
           "status": "In Progress",
-          "scoringPosition": 56
+          "scoringPosition": 28
         },
         {
           "name": "J.J. Spaun",
           "score": "E",
-          "position": "T19",
+          "position": "T13",
           "status": "In Progress",
-          "scoringPosition": 19
+          "scoringPosition": 13
         }
       ],
       "rank": 1
     },
     {
-      "team": "Bowles",
-      "total": 368,
-      "players": [
-        {
-          "name": "Jon Rahm",
-          "score": "-",
-          "position": "Not Started",
-          "status": "Not Started",
-          "scoringPosition": 148
-        },
-        {
-          "name": "Chris Gotterup",
-          "score": "-2",
-          "position": "T36",
-          "status": "Finish",
-          "scoringPosition": 36
-        },
-        {
-          "name": "Cameron Young",
-          "score": "E",
-          "position": "T36",
-          "status": "In Progress",
-          "scoringPosition": 36
-        },
-        {
-          "name": "Shane Lowry",
-          "score": "-",
-          "position": "Not Started",
-          "status": "Not Started",
-          "scoringPosition": 148
-        }
-      ],
-      "rank": 2
-    },
-    {
       "team": "Craig",
-      "total": 388,
+      "total": 363,
       "players": [
         {
           "name": "Brooks Koepka",
@@ -94,30 +59,65 @@
         {
           "name": "Jordan Spieth",
           "score": "E",
-          "position": "T56",
+          "position": "T39",
           "status": "In Progress",
-          "scoringPosition": 56
+          "scoringPosition": 39
         },
         {
           "name": "Russell Henley",
           "score": "E",
-          "position": "T36",
+          "position": "T28",
           "status": "In Progress",
-          "scoringPosition": 36
+          "scoringPosition": 28
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "team": "Bowles",
+      "total": 374,
+      "players": [
+        {
+          "name": "Jon Rahm",
+          "score": "-",
+          "position": "Not Started",
+          "status": "Not Started",
+          "scoringPosition": 148
+        },
+        {
+          "name": "Chris Gotterup",
+          "score": "-2",
+          "position": "T39",
+          "status": "Finish",
+          "scoringPosition": 39
+        },
+        {
+          "name": "Cameron Young",
+          "score": "E",
+          "position": "T39",
+          "status": "In Progress",
+          "scoringPosition": 39
+        },
+        {
+          "name": "Shane Lowry",
+          "score": "-",
+          "position": "Not Started",
+          "status": "Not Started",
+          "scoringPosition": 148
         }
       ],
       "rank": 3
     },
     {
       "team": "Lloyd",
-      "total": 453,
+      "total": 466,
       "players": [
         {
           "name": "Wyndham Clark",
           "score": "+1",
-          "position": "T101",
+          "position": "T105",
           "status": "Finish",
-          "scoringPosition": 101
+          "scoringPosition": 105
         },
         {
           "name": "Tyrrell Hatton",
@@ -129,9 +129,9 @@
         {
           "name": "Si Woo Kim",
           "score": "-1",
-          "position": "T56",
+          "position": "T65",
           "status": "Finish",
-          "scoringPosition": 56
+          "scoringPosition": 65
         },
         {
           "name": "Justin Thomas",
