@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-31T21:45:09.442186Z",
+  "lastUpdated": "2026-07-31T22:43:37.125442Z",
   "tournament": "Rocket Classic",
   "cutLine": 146,
   "teams": [
     {
       "team": "Romano",
-      "total": 205,
+      "total": 206,
       "players": [
         {
           "name": "Xander Schauffele",
@@ -24,9 +24,9 @@
         {
           "name": "Hideki Matsuyama",
           "score": "-5",
-          "position": "T31",
+          "position": "T32",
           "status": "Finish",
-          "scoringPosition": 31
+          "scoringPosition": 32
         },
         {
           "name": "J.J. Spaun",
@@ -75,7 +75,7 @@
     },
     {
       "team": "Bowles",
-      "total": 399,
+      "total": 401,
       "players": [
         {
           "name": "Jon Rahm",
@@ -87,9 +87,9 @@
         {
           "name": "Chris Gotterup",
           "score": "+1",
-          "position": "T104",
+          "position": "T106",
           "status": "Finish",
-          "scoringPosition": 104
+          "scoringPosition": 106
         },
         {
           "name": "Cameron Young",
@@ -115,9 +115,9 @@
         {
           "name": "Wyndham Clark",
           "score": "+5",
-          "position": "T130",
+          "position": "T129",
           "status": "Finish",
-          "scoringPosition": 130
+          "scoringPosition": 129
         },
         {
           "name": "Tyrrell Hatton",
@@ -129,9 +129,9 @@
         {
           "name": "Si Woo Kim",
           "score": "-5",
-          "position": "T31",
+          "position": "T32",
           "status": "Finish",
-          "scoringPosition": 31
+          "scoringPosition": 32
         },
         {
           "name": "Justin Thomas",
