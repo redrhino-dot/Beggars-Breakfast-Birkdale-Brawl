@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-31T20:39:48.834585Z",
+  "lastUpdated": "2026-07-31T21:45:09.442186Z",
   "tournament": "Rocket Classic",
   "cutLine": 146,
   "teams": [
     {
       "team": "Romano",
-      "total": 201,
+      "total": 205,
       "players": [
         {
           "name": "Xander Schauffele",
-          "score": "-4",
-          "position": "T7",
-          "status": "In Progress",
-          "scoringPosition": 7
+          "score": "-8",
+          "position": "T6",
+          "status": "Finish",
+          "scoringPosition": 6
         },
         {
           "name": "Tom Kim",
@@ -24,23 +24,23 @@
         {
           "name": "Hideki Matsuyama",
           "score": "-5",
-          "position": "T29",
+          "position": "T31",
           "status": "Finish",
-          "scoringPosition": 29
+          "scoringPosition": 31
         },
         {
           "name": "J.J. Spaun",
           "score": "-6",
-          "position": "T18",
+          "position": "T21",
           "status": "Finish",
-          "scoringPosition": 18
+          "scoringPosition": 21
         }
       ],
       "rank": 1
     },
     {
       "team": "Craig",
-      "total": 330,
+      "total": 336,
       "players": [
         {
           "name": "Brooks Koepka",
@@ -59,23 +59,23 @@
         {
           "name": "Jordan Spieth",
           "score": "-6",
-          "position": "T18",
+          "position": "T21",
           "status": "Finish",
-          "scoringPosition": 18
+          "scoringPosition": 21
         },
         {
           "name": "Russell Henley",
           "score": "-6",
-          "position": "T18",
+          "position": "T21",
           "status": "Finish",
-          "scoringPosition": 18
+          "scoringPosition": 21
         }
       ],
       "rank": 2
     },
     {
       "team": "Bowles",
-      "total": 389,
+      "total": 399,
       "players": [
         {
           "name": "Jon Rahm",
@@ -86,10 +86,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": "-2",
-          "position": "T94",
-          "status": "In Progress",
-          "scoringPosition": 94
+          "score": "+1",
+          "position": "T104",
+          "status": "Finish",
+          "scoringPosition": 104
         },
         {
           "name": "Cameron Young",
@@ -110,14 +110,14 @@
     },
     {
       "team": "Lloyd",
-      "total": 463,
+      "total": 455,
       "players": [
         {
           "name": "Wyndham Clark",
-          "score": "+1",
-          "position": "T127",
-          "status": "In Progress",
-          "scoringPosition": 127
+          "score": "+5",
+          "position": "T130",
+          "status": "Finish",
+          "scoringPosition": 130
         },
         {
           "name": "Tyrrell Hatton",
@@ -128,10 +128,10 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": "-1",
-          "position": "T42",
-          "status": "In Progress",
-          "scoringPosition": 42
+          "score": "-5",
+          "position": "T31",
+          "status": "Finish",
+          "scoringPosition": 31
         },
         {
           "name": "Justin Thomas",
