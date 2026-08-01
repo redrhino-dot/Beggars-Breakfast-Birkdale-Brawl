@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T21:47:47.978361Z",
+  "lastUpdated": "2026-08-01T22:40:01.604888Z",
   "tournament": "Rocket Classic",
   "cutLine": 73,
   "teams": [
@@ -11,7 +11,7 @@
           "name": "Xander Schauffele",
           "score": "-11",
           "position": "T7",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 7
         },
         {
@@ -25,14 +25,14 @@
           "name": "Hideki Matsuyama",
           "score": "-7",
           "position": "T40",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 40
         },
         {
           "name": "J.J. Spaun",
           "score": "-6",
           "position": "T48",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 48
         }
       ],
@@ -60,14 +60,14 @@
           "name": "Jordan Spieth",
           "score": "-6",
           "position": "T48",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 48
         },
         {
           "name": "Russell Henley",
           "score": "-9",
           "position": "T17",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 17
         }
       ],
@@ -93,9 +93,9 @@
         },
         {
           "name": "Cameron Young",
-          "score": "-10",
+          "score": "-12",
           "position": "T3",
-          "status": "In Progress",
+          "status": "Scheduled",
           "scoringPosition": 3
         },
         {
@@ -130,7 +130,7 @@
           "name": "Si Woo Kim",
           "score": "-10",
           "position": "T11",
-          "status": "Finish",
+          "status": "Scheduled",
           "scoringPosition": 11
         },
         {
