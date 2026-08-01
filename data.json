@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-01T19:57:56.923021Z",
+  "lastUpdated": "2026-08-01T20:53:48.540450Z",
   "tournament": "Rocket Classic",
   "cutLine": 73,
   "teams": [
     {
       "team": "Romano",
-      "total": 172,
+      "total": 171,
       "players": [
         {
           "name": "Xander Schauffele",
           "score": "-8",
-          "position": "T8",
+          "position": "T7",
           "status": "In Progress",
-          "scoringPosition": 8
+          "scoringPosition": 7
         },
         {
           "name": "Tom Kim",
@@ -40,7 +40,7 @@
     },
     {
       "team": "Craig",
-      "total": 220,
+      "total": 213,
       "players": [
         {
           "name": "Brooks Koepka",
@@ -65,17 +65,17 @@
         },
         {
           "name": "Russell Henley",
-          "score": "-6",
-          "position": "T23",
-          "status": "In Progress",
-          "scoringPosition": 23
+          "score": "-9",
+          "position": "T16",
+          "status": "Finish",
+          "scoringPosition": 16
         }
       ],
       "rank": 2
     },
     {
       "team": "Bowles",
-      "total": 227,
+      "total": 225,
       "players": [
         {
           "name": "Jon Rahm",
@@ -94,9 +94,9 @@
         {
           "name": "Cameron Young",
           "score": "-10",
-          "position": "T5",
+          "position": "T3",
           "status": "In Progress",
-          "scoringPosition": 5
+          "scoringPosition": 3
         },
         {
           "name": "Shane Lowry",
@@ -110,7 +110,7 @@
     },
     {
       "team": "Lloyd",
-      "total": 230,
+      "total": 233,
       "players": [
         {
           "name": "Wyndham Clark",
@@ -129,9 +129,9 @@
         {
           "name": "Si Woo Kim",
           "score": "-10",
-          "position": "T8",
+          "position": "T11",
           "status": "Finish",
-          "scoringPosition": 8
+          "scoringPosition": 11
         },
         {
           "name": "Justin Thomas",
