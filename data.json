@@ -1,46 +1,11 @@
 {
-  "lastUpdated": "2026-08-01T16:39:01.583370Z",
+  "lastUpdated": "2026-08-01T17:40:46.709029Z",
   "tournament": "Rocket Classic",
   "cutLine": 73,
   "teams": [
     {
-      "team": "Romano",
-      "total": 156,
-      "players": [
-        {
-          "name": "Xander Schauffele",
-          "score": "-8",
-          "position": "T9",
-          "status": "Scheduled",
-          "scoringPosition": 9
-        },
-        {
-          "name": "Tom Kim",
-          "score": "-",
-          "position": "Not Started",
-          "status": "Not Started",
-          "scoringPosition": 74
-        },
-        {
-          "name": "Hideki Matsuyama",
-          "score": "-5",
-          "position": "T26",
-          "status": "In Progress",
-          "scoringPosition": 26
-        },
-        {
-          "name": "J.J. Spaun",
-          "score": "-6",
-          "position": "T47",
-          "status": "In Progress",
-          "scoringPosition": 47
-        }
-      ],
-      "rank": 1
-    },
-    {
       "team": "Craig",
-      "total": 200,
+      "total": 170,
       "players": [
         {
           "name": "Brooks Koepka",
@@ -59,58 +24,58 @@
         {
           "name": "Jordan Spieth",
           "score": "-6",
-          "position": "T26",
+          "position": "T20",
           "status": "In Progress",
-          "scoringPosition": 26
+          "scoringPosition": 20
         },
         {
           "name": "Russell Henley",
           "score": "-6",
-          "position": "T26",
+          "position": "T2",
           "status": "In Progress",
-          "scoringPosition": 26
+          "scoringPosition": 2
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "team": "Romano",
+      "total": 199,
+      "players": [
+        {
+          "name": "Xander Schauffele",
+          "score": "-8",
+          "position": "T20",
+          "status": "In Progress",
+          "scoringPosition": 20
+        },
+        {
+          "name": "Tom Kim",
+          "score": "-",
+          "position": "Not Started",
+          "status": "Not Started",
+          "scoringPosition": 74
+        },
+        {
+          "name": "Hideki Matsuyama",
+          "score": "-5",
+          "position": "T50",
+          "status": "In Progress",
+          "scoringPosition": 50
+        },
+        {
+          "name": "J.J. Spaun",
+          "score": "-6",
+          "position": "T55",
+          "status": "In Progress",
+          "scoringPosition": 55
         }
       ],
       "rank": 2
     },
     {
-      "team": "Lloyd",
-      "total": 224,
-      "players": [
-        {
-          "name": "Wyndham Clark",
-          "score": "+5",
-          "position": "CUT (74)",
-          "status": "Missed Cut",
-          "scoringPosition": 74
-        },
-        {
-          "name": "Tyrrell Hatton",
-          "score": "-",
-          "position": "Not Started",
-          "status": "Not Started",
-          "scoringPosition": 74
-        },
-        {
-          "name": "Si Woo Kim",
-          "score": "-5",
-          "position": "2",
-          "status": "In Progress",
-          "scoringPosition": 2
-        },
-        {
-          "name": "Justin Thomas",
-          "score": "-",
-          "position": "Not Started",
-          "status": "Not Started",
-          "scoringPosition": 74
-        }
-      ],
-      "rank": 3
-    },
-    {
       "team": "Bowles",
-      "total": 225,
+      "total": 224,
       "players": [
         {
           "name": "Jon Rahm",
@@ -129,12 +94,47 @@
         {
           "name": "Cameron Young",
           "score": "-10",
-          "position": "T3",
+          "position": "T2",
           "status": "Scheduled",
-          "scoringPosition": 3
+          "scoringPosition": 2
         },
         {
           "name": "Shane Lowry",
+          "score": "-",
+          "position": "Not Started",
+          "status": "Not Started",
+          "scoringPosition": 74
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "team": "Lloyd",
+      "total": 230,
+      "players": [
+        {
+          "name": "Wyndham Clark",
+          "score": "+5",
+          "position": "CUT (74)",
+          "status": "Missed Cut",
+          "scoringPosition": 74
+        },
+        {
+          "name": "Tyrrell Hatton",
+          "score": "-",
+          "position": "Not Started",
+          "status": "Not Started",
+          "scoringPosition": 74
+        },
+        {
+          "name": "Si Woo Kim",
+          "score": "-5",
+          "position": "T8",
+          "status": "In Progress",
+          "scoringPosition": 8
+        },
+        {
+          "name": "Justin Thomas",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
