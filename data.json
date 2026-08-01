@@ -1,95 +1,95 @@
 {
-  "lastUpdated": "2026-08-01T13:24:56.683350Z",
+  "lastUpdated": "2026-08-01T14:43:48.738794Z",
   "tournament": "Rocket Classic",
-  "cutLine": 73,
+  "cutLine": 72,
   "teams": [
     {
       "team": "Romano",
-      "total": 137,
+      "total": 151,
       "players": [
         {
           "name": "Xander Schauffele",
           "score": "-8",
-          "position": "T6",
+          "position": "T8",
           "status": "Scheduled",
-          "scoringPosition": 6
+          "scoringPosition": 8
         },
         {
           "name": "Tom Kim",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Hideki Matsuyama",
           "score": "-5",
-          "position": "T36",
+          "position": "T44",
           "status": "Scheduled",
-          "scoringPosition": 36
+          "scoringPosition": 44
         },
         {
           "name": "J.J. Spaun",
           "score": "-6",
-          "position": "T21",
+          "position": "T26",
           "status": "Scheduled",
-          "scoringPosition": 21
+          "scoringPosition": 26
         }
       ],
       "rank": 1
     },
     {
       "team": "Craig",
-      "total": 190,
+      "total": 198,
       "players": [
         {
           "name": "Brooks Koepka",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Robert MacIntyre",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Jordan Spieth",
           "score": "-6",
-          "position": "T21",
+          "position": "T26",
           "status": "Scheduled",
-          "scoringPosition": 21
+          "scoringPosition": 26
         },
         {
           "name": "Russell Henley",
           "score": "-6",
-          "position": "T21",
+          "position": "T26",
           "status": "Scheduled",
-          "scoringPosition": 21
+          "scoringPosition": 26
         }
       ],
       "rank": 2
     },
     {
       "team": "Bowles",
-      "total": 223,
+      "total": 220,
       "players": [
         {
           "name": "Jon Rahm",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Chris Gotterup",
           "score": "+1",
-          "position": "CUT (74)",
+          "position": "CUT (73)",
           "status": "Missed Cut",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Cameron Young",
@@ -103,182 +103,182 @@
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         }
       ],
       "rank": 3
     },
     {
       "team": "Lloyd",
-      "total": 258,
+      "total": 245,
       "players": [
         {
           "name": "Wyndham Clark",
           "score": "+5",
-          "position": "CUT (74)",
+          "position": "CUT (73)",
           "status": "Missed Cut",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Tyrrell Hatton",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Si Woo Kim",
           "score": "-5",
-          "position": "T36",
-          "status": "Scheduled",
-          "scoringPosition": 36
+          "position": "T26",
+          "status": "In Progress",
+          "scoringPosition": 26
         },
         {
           "name": "Justin Thomas",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         }
       ],
       "rank": 4
     },
     {
       "team": "X",
-      "total": 296,
+      "total": 292,
       "players": [
         {
           "name": "Scottie Scheffler",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Aaron Rai",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Patrick Reed",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Casey Jarvis",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         }
       ],
       "rank": 5
     },
     {
       "team": "Reido",
-      "total": 296,
+      "total": 292,
       "players": [
         {
           "name": "Rory McIlroy",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Min Woo Lee",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Collin Morikawa",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Alex Fitzpatrick",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         }
       ],
       "rank": 6
     },
     {
       "team": "G",
-      "total": 296,
+      "total": 292,
       "players": [
         {
           "name": "Matt Fitzpatrick",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Justin Rose",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Sam Burns",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Brian Harman",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         }
       ],
       "rank": 7
     },
     {
       "team": "Dean",
-      "total": 296,
+      "total": 292,
       "players": [
         {
           "name": "Tommy Fleetwood",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Viktor Hovland",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Ludvig \u00c5berg",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         },
         {
           "name": "Bryson DeChambeau",
           "score": "-",
           "position": "Not Started",
           "status": "Not Started",
-          "scoringPosition": 74
+          "scoringPosition": 73
         }
       ],
       "rank": 8
