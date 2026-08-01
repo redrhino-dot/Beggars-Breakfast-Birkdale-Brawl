@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-01T11:58:17.499135Z",
+  "lastUpdated": "2026-08-01T13:24:56.683350Z",
   "tournament": "Rocket Classic",
   "cutLine": 73,
   "teams": [
     {
       "team": "Romano",
-      "total": 133,
+      "total": 137,
       "players": [
         {
           "name": "Xander Schauffele",
@@ -24,9 +24,9 @@
         {
           "name": "Hideki Matsuyama",
           "score": "-5",
-          "position": "T32",
+          "position": "T36",
           "status": "Scheduled",
-          "scoringPosition": 32
+          "scoringPosition": 36
         },
         {
           "name": "J.J. Spaun",
@@ -110,7 +110,7 @@
     },
     {
       "team": "Lloyd",
-      "total": 254,
+      "total": 258,
       "players": [
         {
           "name": "Wyndham Clark",
@@ -129,9 +129,9 @@
         {
           "name": "Si Woo Kim",
           "score": "-5",
-          "position": "T32",
+          "position": "T36",
           "status": "Scheduled",
-          "scoringPosition": 32
+          "scoringPosition": 36
         },
         {
           "name": "Justin Thomas",
