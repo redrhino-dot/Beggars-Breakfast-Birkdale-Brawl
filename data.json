@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-08-01T20:53:48.540450Z",
+  "lastUpdated": "2026-08-01T21:47:47.978361Z",
   "tournament": "Rocket Classic",
   "cutLine": 73,
   "teams": [
     {
       "team": "Romano",
-      "total": 171,
+      "total": 169,
       "players": [
         {
           "name": "Xander Schauffele",
-          "score": "-8",
+          "score": "-11",
           "position": "T7",
-          "status": "In Progress",
+          "status": "Finish",
           "scoringPosition": 7
         },
         {
@@ -24,16 +24,16 @@
         {
           "name": "Hideki Matsuyama",
           "score": "-7",
-          "position": "T41",
+          "position": "T40",
           "status": "Finish",
-          "scoringPosition": 41
+          "scoringPosition": 40
         },
         {
           "name": "J.J. Spaun",
           "score": "-6",
-          "position": "T49",
+          "position": "T48",
           "status": "Finish",
-          "scoringPosition": 49
+          "scoringPosition": 48
         }
       ],
       "rank": 1
@@ -59,16 +59,16 @@
         {
           "name": "Jordan Spieth",
           "score": "-6",
-          "position": "T49",
+          "position": "T48",
           "status": "Finish",
-          "scoringPosition": 49
+          "scoringPosition": 48
         },
         {
           "name": "Russell Henley",
           "score": "-9",
-          "position": "T16",
+          "position": "T17",
           "status": "Finish",
-          "scoringPosition": 16
+          "scoringPosition": 17
         }
       ],
       "rank": 2
