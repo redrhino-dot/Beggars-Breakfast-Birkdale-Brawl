@@ -2,7 +2,7 @@ name: Update Leaderboard
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/1000000000 * * * *'
   workflow_dispatch:
 
 permissions:
